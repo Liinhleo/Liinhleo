@@ -8,7 +8,7 @@
 
 
 
-### Thanks for stopping by  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Liinhleo.Liinhleo)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Liinhleo.Liinhleo)
 
 This is Dieu Linh Truong from Viet Nam, base in Ho Chi Minh.
 
