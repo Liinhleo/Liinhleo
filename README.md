@@ -16,10 +16,8 @@ This is Dieu Linh Truong from Viet Nam, base in Ho Chi Minh.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: dieulinh.truong99@gmail.com
 
-
-## Github Stats
-
 <!--- 
+## Github Stats
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liinhleo&show_icons=true&theme=slateorange" />
 </p> 
