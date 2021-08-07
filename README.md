@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/liinhleo/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/dieulinh.truong.54/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-c92e3c?style=flat-square&logo=gmail&logoColor=white)](dieulinh.truong99@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c92e3c?style=flat-square&logo=gmail&logoColor=white)](mailto:dieulinh.truong99@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Website-%2312100E.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://)
 
 
