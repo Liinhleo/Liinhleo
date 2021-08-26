@@ -9,7 +9,7 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Liinhleo.Liinhleo)
 
 This is Dieu Linh Truong from Viet Nam, base in Ho Chi Minh.
-- 👨‍🎓 I’m currently a fresh graduate 'Software Engineering' student at University Of Information Technology
+- 👨‍🎓 I’m currently a fresh graduate 'Software Engineering' student at University of Information Technology (UIT-VNU)
 - 🌱 I’m currently learning many beautiful things in the Software Developer field;
 - 💬 Ask me about anything, I am happy to help;
 
