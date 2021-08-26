@@ -10,7 +10,7 @@
 
 This is Dieu Linh Truong from Viet Nam, base in Ho Chi Minh.
 - 👨‍🎓 I’m currently a fresh graduate 'Software Engineering' student at University of Information Technology (UIT-VNU)
-- 🌱 I’m currently learning many beautiful things in the Software Developer field;
+- 🌱 I’m currently learning many beautiful things in the field of software development;
 - 💬 Ask me about anything, I am happy to help;
 
 <!--- 
